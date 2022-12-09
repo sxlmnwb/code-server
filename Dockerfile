@@ -1,5 +1,5 @@
 # Start from the code-server Ubuntu base image
-FROM codercom/code-server:4.8.3-ubuntu
+FROM codercom/code-server:4.9.0-ubuntu
 
 USER root
 
